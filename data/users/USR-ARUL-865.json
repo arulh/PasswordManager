@@ -1,0 +1,24 @@
+{
+    "Email": "arul@gmail.com",
+    "Username": "arul",
+    "ID Number": 865,
+    "Passwords": [
+        {
+            "accountName": "Nintendo",
+            "accountPassword": "mario"
+        },
+        {
+            "accountName": "Google",
+            "accountPassword": "hello"
+        },
+        {
+            "accountName": "Microsoft",
+            "accountPassword": "doggy"
+        },
+        {
+            "accountName": "Apple",
+            "accountPassword": "snabol is awesome"
+        }
+    ],
+    "Account Key": "airplane"
+}
