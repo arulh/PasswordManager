@@ -1,0 +1,17 @@
+{
+    "Email": "swarly.barly@yahoot.ca",
+    "Username": "Swarley",
+    "ID Number": 234,
+    "Passwords": [
+        {
+            "accountName": "Google",
+            "accountPassword": "cow234"
+        },
+        {
+            "accountName": "Doordash",
+            "accountPassword": "rubixCube44"
+        },
+        {}
+    ],
+    "Account Key": "123"
+}

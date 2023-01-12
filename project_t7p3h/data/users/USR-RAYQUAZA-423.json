@@ -1,0 +1,20 @@
+{
+    "Email": "ray@yahoo.com",
+    "Username": "rayquaza",
+    "ID Number": 423,
+    "Passwords": [
+        {
+            "accountName": "apple",
+            "accountPassword": "appletree"
+        },
+        {
+            "accountName": "microsoft",
+            "accountPassword": "windows89"
+        },
+        {
+            "accountName": "telus",
+            "accountPassword": "hi"
+        }
+    ],
+    "Account Key": "kahoot"
+}

@@ -1,0 +1,24 @@
+{
+    "Email": "ash@telus.net",
+    "Username": "ash",
+    "ID Number": 539,
+    "Passwords": [
+        {
+            "accountName": "friskies",
+            "accountPassword": "iguana000"
+        },
+        {
+            "accountName": "gmail",
+            "accountPassword": "M0useRat"
+        },
+        {
+            "accountName": "discovery",
+            "accountPassword": "kitten78"
+        },
+        {
+            "accountName": "freedom",
+            "accountPassword": "702"
+        }
+    ],
+    "Account Key": "blackBear"
+}
