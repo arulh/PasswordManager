@@ -4,8 +4,7 @@
 The purpose of this project is to provide users with secure and safe way to store their passwords. Security is going
 to be accomplished in this application by requiring users to gain access to their passwords with an account. An 
 account is going to be comprised of an email, username and password (username and password is going to be required at
-login). **Higher levels of security will require more information**. This means that users will be able to opt for
-different account types depending on how secure they want their passwords to be. The password manager is aimed towards
+login). The password manager is aimed towards
 pretty much anybody who would like to store their passwords for reminding. This project is of interest to me because
 I want to be able to store my passwords in a secure location.
 
